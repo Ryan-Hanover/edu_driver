@@ -1,0 +1,6 @@
+*.ko*
+*.json
+*.mod*
+*.order
+*.o*
+*.symvers*
